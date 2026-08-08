@@ -1,8 +1,9 @@
- Como vai? 👋
-Me chamo Leonardo, desenvolvedor júnior e moro no Brasil.
-Eu desenvolvo tudo o que eu possa imaginar.
-Se uma idéia vem na minha cabeça, as chances são que eu vou trabalhar com ela e entregar.
-Meu principal tech stack é Java, React, Phyton, Html e CSS.
+Olá, eu sou o Leo 👋
 
-Irei publicar por aqui alguns projetos e experimentos que estou trabalhando...
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na **Universidade Presbiteriana Mackenzie (São Paulo)
 
+💻 Trabalho com JavaScript, Python, SQL, React/Vite e Node.js, e venho explorando ferramentas como Supabase, Stripe e Cloudflare em projetos próprios
+
+🚀 Buscando oportunidades de estágio em TI para colocar em prática o que venho construindo
+
+📫 Vamos conversar: [leonardoviniciusferraz@gmail.com]
